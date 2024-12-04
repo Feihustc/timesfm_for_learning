@@ -1,0 +1,33 @@
+[
+    '/root/autodl-tmp/timesfm/peft',
+    '/root/miniconda3/lib/python310.zip',
+    '/root/miniconda3/lib/python3.10',
+    '/root/miniconda3/lib/python3.10/lib-dynload',
+    '/root/miniconda3/lib/python3.10/site-packages'
+]
+2024-11-23 22:17:31.548632: W external/xla/xla/service/gpu/nvptx_compiler.cc:718] The NVIDIA driver's CUDA version is 12.4 which is older than the ptxas CUDA version (12.6.85). Because the driver is older than the ptxas version, XLA is disabling parallel compilation, which may slow down compilation. You should update your NVIDIA driver or use the NVIDIA-provided CUDA forward compatibility packages.
+TimesFM v1.2.0. See https://github.com/google-research/timesfm/blob/master/README.md for updated APIs.
+Loaded Jax TimesFM.
+[
+    'predicted_radiation',
+    'predicted_direction',
+    'predicted_speed',
+    'predicted_temperature',
+    'predicted_humidity',
+    'predicted_pressure'
+]
+0it [00:00, ?it/s]18it [00:00, 173.55it/s]39it [00:00, 193.98it/s]64it [00:00, 216.10it/s]88it [00:00, 222.81it/s]111it [00:00, 216.98it/s]134it [00:00, 218.49it/s]156it [00:00, 218.28it/s]178it [00:00, 218.17it/s]201it [00:00, 220.85it/s]226it [00:01, 229.00it/s]253it [00:01, 241.02it/s]278it [00:01, 239.76it/s]302it [00:01, 229.01it/s]328it [00:01, 235.91it/s]352it [00:01, 231.82it/s]376it [00:01, 227.75it/s]399it [00:01, 225.64it/s]422it [00:01, 224.86it/s]445it [00:01, 222.95it/s]468it [00:02, 223.19it/s]491it [00:02, 219.35it/s]513it [00:02, 217.61it/s]537it [00:02, 221.79it/s]560it [00:02, 219.07it/s]582it [00:02, 216.58it/s]605it [00:02, 218.46it/s]628it [00:02, 220.48it/s]651it [00:02, 220.92it/s]674it [00:03, 222.09it/s]697it [00:03, 221.03it/s]720it [00:03, 211.13it/s]742it [00:03, 208.97it/s]763it [00:03, 204.18it/s]784it [00:03, 201.17it/s]805it [00:03, 202.85it/s]827it [00:03, 207.52it/s]851it [00:03, 214.39it/s]876it [00:03, 223.59it/s]901it [00:04, 229.11it/s]926it [00:04, 231.67it/s]950it [00:04, 232.19it/s]974it [00:04, 221.17it/s]997it [00:04, 223.16it/s]1023it [00:04, 233.19it/s]1047it [00:04, 227.74it/s]1070it [00:04, 220.69it/s]1093it [00:04, 222.90it/s]1116it [00:05, 223.04it/s]1139it [00:05, 206.93it/s]1162it [00:05, 211.61it/s]1185it [00:05, 215.31it/s]1208it [00:05, 217.70it/s]1220it [00:05, 220.14it/s]
+Usage: finetune.py [OPTIONS]
+Try 'finetune.py --help' for help.
+╭─ Error ──────────────────────────────────────────────────────────────────────╮
+│ Got unexpected extra argument ( )                                            │
+╰──────────────────────────────────────────────────────────────────────────────╯
+TimesFM v1.2.0. See https://github.com/google-research/timesfm/blob/master/README.md for updated APIs.
+Loaded Jax TimesFM.
+Usage: finetune.py [OPTIONS]
+Try 'finetune.py --help' for help.
+╭─ Error ──────────────────────────────────────────────────────────────────────╮
+│ Got unexpected extra argument ( )                                            │
+╰──────────────────────────────────────────────────────────────────────────────╯
+TimesFM v1.2.0. See https://github.com/google-research/timesfm/blob/master/README.md for updated APIs.
+Loaded Jax TimesFM.
